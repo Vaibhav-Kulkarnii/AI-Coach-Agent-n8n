@@ -1,4 +1,3 @@
-# AI-Coach-Agent-n8n
 # AI Coach Agent using n8n
 
 An AI-powered personal learning assistant built using **n8n Workflow Automation** and **AI Agents**. The agent automates study planning by reading learning roadmaps from Gmail, generating personalized study schedules, managing Google Calendar events, creating notes in Google Docs, sending reminder emails, and answering follow-up questions using LLMs.
